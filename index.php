@@ -1,5 +1,6 @@
 <?php
 
+echo "Ciao Gianni <br><br>";
 $db = new PDO(
     "mysql:host=192.168.60.144;dbname=riccardo_gianesella_clinica;charset=utf8mb4",
     "riccardo_gianesella",
